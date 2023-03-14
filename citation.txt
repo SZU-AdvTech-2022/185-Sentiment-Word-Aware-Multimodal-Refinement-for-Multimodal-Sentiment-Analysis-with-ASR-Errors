@@ -1,0 +1,7 @@
+@inproceedings{REPO-186,
+    author = "Wu, Yang and Zhao, Yanyan and Yang, Hao and Chen, Song and Qin, Bing and Cao, Xiaohuan and Zhao, Wenting",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    pages = "1397--1406",
+    title = "{Sentiment Word Aware Multimodal Refinement for Multimodal Sentiment Analysis with {ASR} Errors}",
+    year = "2022"
+}
